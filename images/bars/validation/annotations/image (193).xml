@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image (193).JPG</filename>
+	<path>C:\Users\Grycek\Desktop\Git_first\League-Vision-Challenge\images\bars\validation\images\image (193).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>702</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>62</ymin>
+			<xmax>378</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>148</ymin>
+			<xmax>384</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>649</xmin>
+			<ymin>288</ymin>
+			<xmax>702</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>
