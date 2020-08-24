@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53e2df6f-3a86-40e6-bea7-20f86823f908" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rename_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shuffle_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (1).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (10).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (100).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (101).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (102).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (103).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (104).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (105).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (106).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (107).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (108).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (109).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (11).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (110).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (111).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (112).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (113).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (114).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (115).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (116).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (117).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (118).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (119).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (12).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (120).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (121).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (122).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (123).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (124).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (125).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (126).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (127).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (128).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (129).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (13).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (130).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (131).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (132).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (133).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (134).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (135).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (136).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (137).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (138).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (139).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (14).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (140).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (141).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (142).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (143).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (144).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (145).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (146).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (147).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (148).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (149).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (15).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (150).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (151).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (152).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (153).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (154).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (155).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (156).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (157).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (158).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (159).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (16).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (160).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (161).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (162).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (163).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (164).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (165).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (166).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (167).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (168).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (169).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (17).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (170).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (171).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (172).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (173).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (174).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (175).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (176).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (177).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (178).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (179).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (18).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/annotations/image (180).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (10).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (100).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (101).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (102).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (103).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (104).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (105).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (106).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (107).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (108).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (109).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (11).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (110).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (111).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (112).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (113).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (114).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (115).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (116).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (117).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (118).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (119).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (12).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (120).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (121).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (122).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (123).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (124).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (125).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (126).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (127).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (128).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (129).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (13).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (130).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (131).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (132).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (133).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (134).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (135).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (136).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (137).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (138).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (139).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (14).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (140).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (141).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (142).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (143).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (144).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (145).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (146).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (147).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (148).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (149).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (15).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (150).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (151).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (152).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (153).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (154).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (155).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (156).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (157).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (158).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (159).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (16).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (160).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (161).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (162).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (163).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (164).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (165).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (166).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (167).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (168).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (169).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (17).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (170).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (171).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (172).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (173).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (174).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (175).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (176).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (177).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (178).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (179).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (18).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (180).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (19).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (20).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (21).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (22).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (23).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (24).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (25).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (26).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (27).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (28).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (29).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (3).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (30).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (31).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (32).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (33).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (34).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (35).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (36).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (37).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (38).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (39).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (4).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (40).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (41).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (42).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (43).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (44).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (45).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (46).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (47).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (48).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (49).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (5).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (50).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (51).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (52).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (53).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (54).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (55).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (56).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (57).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (58).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (59).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (6).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (60).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (61).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (62).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (63).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (64).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (65).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (66).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (67).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (68).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (69).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (7).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (70).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (71).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (72).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (73).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (74).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (75).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (76).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (77).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (78).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (79).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (8).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (80).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (81).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (82).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (83).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (84).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (85).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (86).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (87).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (88).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (89).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (9).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (90).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (91).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (92).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (93).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (94).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (95).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (96).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (97).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (98).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/training/images/image (99).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (181).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (182).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (183).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (184).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (185).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (186).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (187).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (188).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (189).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (190).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (191).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (192).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (193).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (194).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (195).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (196).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (197).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (198).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (199).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (200).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (201).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (202).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (203).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (204).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (205).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (206).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (207).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (208).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (209).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (210).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (211).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (212).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (213).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (214).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (215).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (216).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (217).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (218).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (219).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (220).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (221).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (222).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (223).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (224).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/annotations/image (225).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (181).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (182).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (183).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (184).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (185).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (186).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (187).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (188).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (189).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (190).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (191).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (192).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (193).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (194).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (195).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (196).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (197).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (198).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (199).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (200).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (201).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (202).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (203).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (204).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (205).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (206).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (207).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (208).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (209).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (210).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (211).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (212).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (213).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (214).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (215).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (216).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (217).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (218).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (219).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (220).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (221).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (222).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (223).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (224).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/bars/validation/images/image (225).png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Grycek\Desktop\Git_first\League-Vision-Challenge\script\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g9djBLrMBzXhrZUa4zOPa9TnrN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../filmiki_LoL/extract_frames.py" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="shuffle_images" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="script" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Grycek\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shuffle_images.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.shuffle_images" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53e2df6f-3a86-40e6-bea7-20f86823f908" name="Default Changelist" comment="" />
+      <created>1597530876512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597530876512</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
