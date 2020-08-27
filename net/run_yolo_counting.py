@@ -6,7 +6,7 @@ import os
 
 def detect():
 
-    img_paths = ['image1.jpg']
+    img_paths = ['screen1.png']	# default name
 
     if len(sys.argv) >= 2:
         img_paths = []
@@ -14,7 +14,6 @@ def detect():
             img_paths.append(arg)
 
     for img_path in img_paths:
-
         net_path = os.path.join(os.getcwd(), "yolov4/yolov4-obj_last.weights")
         cfg_path = os.path.join(os.getcwd(), "yolov4/yolov4-obj.cfg")
 

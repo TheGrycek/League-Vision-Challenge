@@ -3,12 +3,14 @@ import cv2 as cv
 import os
 
 '''
-Script extracts frames from video files with frequency 1 fps
+Script extracts frames from video files with given frequency
 '''
 
 def extract_frames():
     print("Enter video directory:")
     path = input()
+    print("Enter the number of frames per second:")
+    f = float(input())
 
     os.makedirs("images", exist_ok=True)
     images_dir = os.path.join(os.getcwd(), "images")
@@ -18,7 +20,7 @@ def extract_frames():
     img_num = 1
 
     while success:
-        cap.set(cv.CAP_PROP_POS_MSEC, (num * 1000))
+        cap.set(cv.CAP_PROP_POS_MSEC, (num * (1000/f)))
         success, img = cap.read()
         last = cv.imread("frame{}.jpg".format(num - 1))
 

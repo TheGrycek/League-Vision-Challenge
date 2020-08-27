@@ -62,13 +62,14 @@ try:
             for i in range(len(boxes)):
                 if i in indexes:
                     x, y, w, h = boxes[i]
+                    img = cv.copyMakeBorder(img, 0, 60, 0, 60, cv.BORDER_CONSTANT, value=[0, 0, 0])
                     text = class_name + ":" + str(np.round(confidences[i], 3))
                     cv.putText(img, text, (x, y + 50), font_type, 2, color, 2)
                     cv.rectangle(img, (x, y), (x + w, y + h), color, 2)
 
             score = "score:" + str(len(indexes))
             cv.putText(img, score, (40, 40), font_type, 4, color, 3)
-            img = cv.resize(img, None, fx=0.5, fy=0.5)
+            img = cv.resize(img, None, fx=0.4, fy=0.4)
             cv.imshow("Processed image", img)
             cv.waitKey(0)
 
