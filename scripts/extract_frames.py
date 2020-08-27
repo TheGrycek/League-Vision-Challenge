@@ -3,7 +3,7 @@ import cv2 as cv
 import os
 
 '''
-Script extracts frames from video files with frequency 1 fps
+Script extracts frames from video files with a frequency 1 fps
 '''
 
 def extract_frames():
