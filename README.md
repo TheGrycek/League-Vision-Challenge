@@ -9,7 +9,7 @@ The ANN was created and trained with the help of the Darknet framework, using th
 In order to collect dataset, *jpg* images were extracted from gameplay videos with a frequency of 0.2 *fps*. Over 2100 images were collected.
 Extraction of the images was realized using created script `extract_frames.py`.
 
-Labels for the images were created manually, using LabelImg program. Example datasets are presented in the *example_datasets* folder.
+Labels for the images were created manually, using LabelImg program. Example dataset is presented in the *example_dataset* folder.
 
 ## Run detection
 
