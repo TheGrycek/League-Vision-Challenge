@@ -12,13 +12,15 @@ def detect():
         img_paths = []
         for arg in sys.argv[1:]:
             img_paths.append(arg)
-
+    
+    cwd = os.getcwd()
+    
     for img_path in img_paths:
-        net_path = os.path.join(os.getcwd(), "yolov4/yolov4-obj_last.weights")
-        cfg_path = os.path.join(os.getcwd(), "yolov4/yolov4-obj.cfg")
+        net_path = os.path.join(cwd, "yolov4/yolov4-obj_last.weights")
+        cfg_path = os.path.join(cwd, "yolov4/yolov4-obj.cfg")
 
         if not os.path.exists(net_path):
-            net_path = os.path.join(os.getcwd(), "yolov4/backups/yolov4-obj_last.weights")
+            net_path = os.path.join(cwd, "yolov4/backups/yolov4-obj_last.weights")
 
         net = cv.dnn.readNet(net_path, cfg_path)
 
@@ -33,34 +35,27 @@ def detect():
         outputs = net.forward(output_layers)
 
         confidences = []
-        class_nums = []
         boxes = []
 
         for output in outputs:
             for detected in output:
-                scores = detected[5:]
-                class_num = np.argmax(scores)
-                confidence = scores[class_num]
+                confidence = detected[5]
 
                 if confidence > 0.3:
-                    center_x = int(detected[0] * img.shape[1])
-                    center_y = int(detected[1] * img.shape[0])
-                    w = int(detected[2] * img.shape[1])
-                    h = int(detected[3] * img.shape[0])
+                    height, width, channels = img.shape
+                    center_x = int(detected[0] * width)
+                    center_y = int(detected[1] * height)
+                    w = int(detected[2] * width)
+                    h = int(detected[3] * height)
                     x = int(center_x - w / 2)
                     y = int(center_y - h / 2)
 
                     confidences.append(float(confidence))
-                    class_nums.append(class_num)
                     boxes.append([x, y, w, h])
 
         indexes = cv.dnn.NMSBoxes(boxes, confidences, 0.5, 0.5)
 
-        bars_amount = len(indexes)
-        if bars_amount > 10:
-            bars_amount = 10
-
-        print(bars_amount)
+        print(len(indexes))
 
 
 try:
